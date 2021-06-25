@@ -5,6 +5,6 @@ package com.itheima.pojo;
  * @create 2021-06-25 14:32
  */
 public class User {
-    private String name;
+    private String name;//用户名
     private String like;
 }
